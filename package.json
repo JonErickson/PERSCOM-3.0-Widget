@@ -16,7 +16,7 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
-    "next": "^14.2.1",
+    "next": "^15.1.4",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
     "react-data-table-component": "^7.6.2",
